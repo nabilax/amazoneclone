@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nabilax/amazoneclone.git/static/css/main.3ffba8de.css",
+    "main.js": "/nabilax/amazoneclone.git/static/js/main.b3050b8b.js",
+    "static/js/787.103b6581.chunk.js": "/nabilax/amazoneclone.git/static/js/787.103b6581.chunk.js",
+    "index.html": "/nabilax/amazoneclone.git/index.html",
+    "main.3ffba8de.css.map": "/nabilax/amazoneclone.git/static/css/main.3ffba8de.css.map",
+    "main.b3050b8b.js.map": "/nabilax/amazoneclone.git/static/js/main.b3050b8b.js.map",
+    "787.103b6581.chunk.js.map": "/nabilax/amazoneclone.git/static/js/787.103b6581.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ffba8de.css",
+    "static/js/main.b3050b8b.js"
+  ]
+}
